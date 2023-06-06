@@ -1,0 +1,523 @@
+.remake-home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.remake-home-remake-home {
+  width: 100%;
+  height: 2000px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.remake-home-image2 {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 1440px;
+  height: 890px;
+  position: absolute;
+}
+.remake-home-carikosan {
+  top: 137px;
+  flex: 1;
+  left: 0px;
+  width: 823px;
+  height: 250.85475158691406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.remake-home-txt-cari-kost {
+  top: 31px;
+  flex: 1;
+  left: 39px;
+  width: 746px;
+  height: 219.85475158691406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.remake-home-text {
+  top: 49.27490234375px;
+  flex: 1;
+  color: rgba(255, 251, 249, 1);
+  width: 686px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 80px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-carikosananda {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 746px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.remake-home-text02 {
+  flex: 1;
+  color: rgba(255, 255, 255, 1);
+  width: 746px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: 80px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-button {
+  top: 126px;
+  flex: 1;
+  left: 0px;
+  width: 220px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.remake-home-rectangle2 {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 220px;
+  height: 50px;
+  position: absolute;
+  border-radius: 6px;
+}
+.remake-home-text04 {
+  top: 12.75px;
+  flex: 1;
+  left: 81.53845977783203px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-screenshot202108091617372 {
+  top: -34px;
+  flex: 1;
+  left: 0px;
+  width: 1440px;
+  height: 924px;
+  position: absolute;
+}
+.remake-home-scroll {
+  top: 772px;
+  flex: 1;
+  left: 379px;
+  width: 682px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.remake-home-group109 {
+  top: 10px;
+  flex: 1;
+  left: 32px;
+  width: 620px;
+  height: 110px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.remake-home-icroundkeyboarddoublearrowup {
+  top: 110px;
+  flex: 1;
+  left: 331px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.remake-home-text06 {
+  flex: 1;
+  color: rgba(255, 255, 255, 1);
+  width: 620px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 80px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-text08 {
+  top: 953.5248413085938px;
+  flex: 1;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 400px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 80px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-artboard12 {
+  top: 717px;
+  flex: 1;
+  left: 1267px;
+  width: 153px;
+  height: 153px;
+  position: absolute;
+}
+.remake-home-step {
+  top: 1104px;
+  flex: 1;
+  left: 60px;
+  width: 1320px;
+  height: 533px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.remake-home-step1 {
+  top: 263px;
+  flex: 1;
+  left: 0px;
+  width: 360px;
+  height: 270px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.remake-home-text10 {
+  flex: 1;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-text12 {
+  top: 71px;
+  flex: 1;
+  color: rgba(0, 0, 0, 1);
+  width: 360px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-step2 {
+  top: 0px;
+  flex: 1;
+  left: 480px;
+  width: 360px;
+  height: 533px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.remake-home-text14 {
+  top: 263px;
+  flex: 1;
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-text16 {
+  top: 334px;
+  flex: 1;
+  color: rgba(0, 0, 0, 1);
+  width: 360px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-maskgroup {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 360px;
+  height: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.remake-home-screenshot202306070348161 {
+  top: 32px;
+  flex: 1;
+  left: 22px;
+  width: 248px;
+  height: 176px;
+  position: absolute;
+}
+.remake-home-step3 {
+  top: 263px;
+  flex: 1;
+  left: 960px;
+  width: 360px;
+  height: 270px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.remake-home-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-text20 {
+  top: 71px;
+  color: rgba(0, 0, 0, 1);
+  width: 360px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-header {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 1440px;
+  height: 132px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.remake-home-header1 {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 1440px;
+  height: 132px;
+  position: absolute;
+}
+.remake-home-searchbar {
+  top: 44px;
+  flex: 1;
+  left: 379.0528564453125px;
+  width: 699.944091796875px;
+  height: 41.06666564941406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.remake-home-vector {
+  top: 6.719035625457764px;
+  flex: 1;
+  left: 661.8365478515625px;
+  width: 26px;
+  height: 25px;
+  position: absolute;
+}
+.remake-home-text22 {
+  top: 52.80078125px;
+  left: 1266.5172119140625px;
+  color: rgba(45, 193, 104, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-text24 {
+  top: 52.80078125px;
+  left: 1093.035400390625px;
+  color: rgba(0, 0, 0, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-maskgroup1 {
+  top: 1104px;
+  flex: 1;
+  left: 60px;
+  width: 360px;
+  height: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.remake-home-screenshot202306070347251 {
+  top: -11px;
+  flex: 1;
+  left: -47px;
+  width: 400px;
+  height: 263px;
+  position: absolute;
+}
+.remake-home-maskgroup2 {
+  top: 1104px;
+  flex: 1;
+  left: 1020px;
+  width: 360px;
+  height: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.remake-home-screenshot202306070349031 {
+  top: -22px;
+  flex: 1;
+  left: 0px;
+  width: 360px;
+  height: 222px;
+  position: absolute;
+}
+.remake-home-footerhome {
+  top: 1773px;
+  flex: 1;
+  left: 0px;
+  width: 1440px;
+  height: 227px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 252, 251, 1);
+}
+.remake-home-text26 {
+  top: 187px;
+  left: 1092px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.remake-home-artboard11 {
+  top: 73px;
+  left: 37px;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+}
+.remake-home-text28 {
+  top: 101px;
+  left: 585px;
+  color: rgba(0, 0, 0, 1);
+  width: 298px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}

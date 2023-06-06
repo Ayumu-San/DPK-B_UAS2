@@ -1,0 +1,1727 @@
+.cari-kost-remake-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.cari-kost-remake-cari-kost-remake {
+  width: 100%;
+  height: 2400px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-text {
+  top: 263px;
+  left: 59px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-label01 {
+  top: 343px;
+  left: 59px;
+  width: 640px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 640px;
+  height: 360px;
+  position: absolute;
+  border-color: rgba(190, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.cari-kost-remake-image2 {
+  top: 43px;
+  left: 59px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-teksisi {
+  top: 43px;
+  left: 40px;
+  width: 578px;
+  height: 275px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-text02 {
+  top: 248px;
+  color: rgba(0, 0, 0, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-text04 {
+  left: 300px;
+  color: rgba(0, 0, 0, 1);
+  width: 278px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-capacity {
+  top: 242px;
+  left: 105px;
+  width: 149.99978637695312px;
+  height: 48.67021179199219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-ictwotoneman4 {
+  top: 0px;
+  left: 106.11680603027344px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.cari-kost-remake-iconstar {
+  top: 93px;
+  left: 346px;
+  width: 217.9999542236328px;
+  height: 39.71659851074219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar {
+  top: 0px;
+  left: 87.1999282836914px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar01 {
+  top: 0px;
+  left: 43.60001754760742px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar02 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder {
+  top: 0px;
+  left: 174.39996337890625px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf {
+  top: 0px;
+  left: 130.80006408691406px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-label {
+  top: 166px;
+  left: 348px;
+  width: 214px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-label011 {
+  top: 55px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text08 {
+  top: 8px;
+  left: 24px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-label2 {
+  top: 0px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text10 {
+  top: 8px;
+  left: 24px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-label3 {
+  top: 110px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text12 {
+  top: 8px;
+  left: 4px;
+  color: rgba(90, 89, 89, 1);
+  width: 205px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-label21 {
+  top: 343px;
+  left: 726px;
+  width: 640px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-rectangle161 {
+  top: 0px;
+  left: 0px;
+  width: 640px;
+  height: 360px;
+  position: absolute;
+  border-color: rgba(190, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.cari-kost-remake-maskgroup {
+  top: 43px;
+  left: 59px;
+  width: 240px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-frame3 {
+  top: 0px;
+  left: 0px;
+  width: 240px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cari-kost-remake-image201 {
+  top: 0px;
+  left: 0px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-dsc05297211 {
+  top: 0px;
+  left: -5px;
+  width: 266px;
+  height: 178px;
+  position: absolute;
+}
+.cari-kost-remake-teksisi1 {
+  top: 43px;
+  left: 40px;
+  width: 575px;
+  height: 275px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-text14 {
+  top: 248px;
+  color: rgba(0, 0, 0, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-text16 {
+  left: 305px;
+  color: rgba(0, 0, 0, 1);
+  width: 270px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-capacity1 {
+  top: 242px;
+  left: 88px;
+  width: 150px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-ictwotoneman41 {
+  top: 0px;
+  left: 106.11680603027344px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.cari-kost-remake-iconstar1 {
+  top: 93px;
+  left: 346px;
+  width: 217.9999542236328px;
+  height: 39.71659851074219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar03 {
+  top: 0px;
+  left: 87.1999282836914px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar04 {
+  top: 0px;
+  left: 43.60001754760742px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar05 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder01 {
+  top: 0px;
+  left: 174.39996337890625px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf01 {
+  top: 0px;
+  left: 130.80006408691406px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-remake-label1 {
+  top: 166px;
+  left: 348px;
+  width: 214px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-label012 {
+  top: 55px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text20 {
+  top: 8px;
+  left: 24px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-label22 {
+  top: 0px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text22 {
+  top: 8px;
+  left: 24px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-label31 {
+  top: 110px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text24 {
+  top: 8px;
+  left: 4px;
+  color: rgba(90, 89, 89, 1);
+  width: 205px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-aa {
+  top: 840px;
+  left: 59px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image202 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text26 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar06 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar07 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar08 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder02 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf02 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle6 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text28 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-ab {
+  top: 840px;
+  left: 398px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image203 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text30 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini1 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar09 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar10 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar11 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder03 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf03 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini1 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle61 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text32 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-ac {
+  top: 840px;
+  left: 736px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image204 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text34 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini2 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar12 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar13 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar14 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder04 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf04 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini2 {
+  top: 340px;
+  left: 15px;
+  width: 282px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle62 {
+  top: 0px;
+  left: 8.657857894897461px;
+  width: 265px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text36 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 282px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-ad {
+  top: 840px;
+  left: 1070px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image205 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text38 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini3 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar15 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar16 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar17 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder05 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf05 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini3 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle63 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text40 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-ba {
+  top: 1415px;
+  left: 57px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image206 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text42 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini4 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar18 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar19 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar20 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder06 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf06 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini4 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle64 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text44 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-bb {
+  top: 1415px;
+  left: 396px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image207 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text46 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini5 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar21 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar22 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar23 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder07 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf07 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini5 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle65 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text48 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-bc {
+  top: 1415px;
+  left: 734px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image208 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text50 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini6 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar24 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar25 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar26 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder08 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf08 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini6 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle66 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text52 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-groupmini-bd {
+  top: 1415px;
+  left: 1070px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-remake-image209 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-remake-text54 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-iconstarmini7 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-icbaselinestar27 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar28 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestar29 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarborder09 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-icbaselinestarhalf09 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-remake-label-mini7 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-rectangle67 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-remake-text56 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-text58 {
+  top: 760px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-text60 {
+  top: 1330px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-filter1 {
+  top: 139px;
+  left: 240px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text62 {
+  top: 7px;
+  left: 12.076271057128906px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-filter2 {
+  top: 139px;
+  left: 461px;
+  width: 279px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text64 {
+  top: 7px;
+  left: 10px;
+  color: rgba(90, 89, 89, 1);
+  width: 259px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-filter3 {
+  top: 139px;
+  left: 771px;
+  width: 236px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text66 {
+  top: 7px;
+  left: 14px;
+  color: rgba(90, 89, 89, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-filter4 {
+  top: 139px;
+  left: 1038px;
+  width: 274px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-remake-text68 {
+  top: 7px;
+  left: 28px;
+  color: rgba(90, 89, 89, 1);
+  width: 219px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-filterbar {
+  top: 140px;
+  left: 62px;
+  width: 132px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-materialsymbolsfilteralt {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.cari-kost-remake-text70 {
+  top: 4px;
+  left: 46px;
+  color: rgba(0, 0, 0, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-footerhome {
+  top: 2173px;
+  left: 0px;
+  width: 1440px;
+  height: 227px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 252, 251, 1);
+}
+.cari-kost-remake-text72 {
+  top: 187px;
+  left: 1092px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-artboard11 {
+  top: 73px;
+  left: 37px;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+}
+.cari-kost-remake-text74 {
+  top: 101px;
+  left: 585px;
+  color: rgba(0, 0, 0, 1);
+  width: 298px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-header {
+  top: 0px;
+  left: -12px;
+  width: 1440px;
+  height: 132px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-remake-header1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 132px;
+  position: absolute;
+}
+.cari-kost-remake-searchbar {
+  top: 44px;
+  left: 379.0528564453125px;
+  width: 699.944091796875px;
+  height: 41.06666564941406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.cari-kost-remake-vector {
+  top: 6.719035625457764px;
+  left: 661.8365478515625px;
+  width: 26px;
+  height: 25px;
+  position: absolute;
+}
+.cari-kost-remake-text76 {
+  top: 52.80078125px;
+  left: 1266.5172119140625px;
+  color: rgba(45, 193, 104, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-remake-text78 {
+  top: 52.80078125px;
+  left: 1093.035400390625px;
+  color: rgba(0, 0, 0, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}

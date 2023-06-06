@@ -1,0 +1,2199 @@
+.cari-kost-filtersection-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.cari-kost-filtersection-cari-kost-filtersection {
+  width: 100%;
+  height: 2400px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-label01 {
+  top: 343px;
+  left: 59px;
+  width: 640px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image2 {
+  top: 43px;
+  left: 59px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-teksisi {
+  top: 43px;
+  left: 60px;
+  width: 519px;
+  height: 275px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-text {
+  top: 248px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text002 {
+  left: 285px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-capacity {
+  top: 242px;
+  left: 104px;
+  width: 149.99978637695312px;
+  height: 48.67021179199219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-text004 {
+  color: rgba(0, 0, 0, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-ictwotoneman4 {
+  top: 0px;
+  left: 106.11680603027344px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.cari-kost-filtersection-iconstar {
+  top: 93px;
+  left: 346px;
+  width: 217.9999542236328px;
+  height: 39.71659851074219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar {
+  top: 0px;
+  left: 87.1999282836914px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar01 {
+  top: 0px;
+  left: 43.60001754760742px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar02 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder {
+  top: 0px;
+  left: 174.39996337890625px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf {
+  top: 0px;
+  left: 130.80006408691406px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-label {
+  top: 166px;
+  left: 348px;
+  width: 214px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-label011 {
+  top: 55px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text006 {
+  top: 9px;
+  left: 33px;
+  color: rgba(90, 89, 89, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-label2 {
+  top: 0px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text008 {
+  top: 9px;
+  left: 33px;
+  color: rgba(90, 89, 89, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-label3 {
+  top: 110px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text010 {
+  top: 9px;
+  left: 33px;
+  color: rgba(90, 89, 89, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-label21 {
+  top: 343px;
+  left: 740px;
+  width: 640px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image201 {
+  top: 43px;
+  left: 59px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-teksisi1 {
+  top: 43px;
+  left: 60px;
+  width: 519px;
+  height: 275px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-text012 {
+  top: 248px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text014 {
+  left: 285px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-capacity1 {
+  top: 242px;
+  left: 104px;
+  width: 149.99978637695312px;
+  height: 48.67021179199219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-text016 {
+  color: rgba(0, 0, 0, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-ictwotoneman41 {
+  top: 0px;
+  left: 106.11680603027344px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.cari-kost-filtersection-iconstar1 {
+  top: 93px;
+  left: 346px;
+  width: 217.9999542236328px;
+  height: 39.71659851074219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar03 {
+  top: 0px;
+  left: 87.1999282836914px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar04 {
+  top: 0px;
+  left: 43.60001754760742px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar05 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder01 {
+  top: 0px;
+  left: 174.39996337890625px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf01 {
+  top: 0px;
+  left: 130.80006408691406px;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+}
+.cari-kost-filtersection-label1 {
+  top: 166px;
+  left: 348px;
+  width: 214px;
+  height: 152px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-label012 {
+  top: 55px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text018 {
+  top: 9px;
+  left: 33px;
+  color: rgba(90, 89, 89, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-label22 {
+  top: 0px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text020 {
+  top: 9px;
+  left: 33px;
+  color: rgba(90, 89, 89, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-label31 {
+  top: 110px;
+  left: 0px;
+  width: 214px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text022 {
+  top: 9px;
+  left: 33px;
+  color: rgba(90, 89, 89, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-aa {
+  top: 840px;
+  left: 59px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image202 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text024 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar06 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar07 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar08 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder02 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf02 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle6 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text026 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-ab {
+  top: 840px;
+  left: 398px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image203 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text028 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini1 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar09 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar10 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar11 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder03 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf03 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini1 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle61 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text030 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-ac {
+  top: 840px;
+  left: 736px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image204 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text032 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini2 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar12 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar13 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar14 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder04 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf04 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini2 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle62 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text034 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-ad {
+  top: 840px;
+  left: 1070px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image205 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text036 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini3 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar15 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar16 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar17 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder05 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf05 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini3 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle63 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text038 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-ba {
+  top: 1415px;
+  left: 57px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image206 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text040 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini4 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar18 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar19 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar20 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder06 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf06 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini4 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle64 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text042 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-bb {
+  top: 1415px;
+  left: 396px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image207 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text044 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini5 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar21 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar22 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar23 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder07 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf07 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini5 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle65 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text046 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-bc {
+  top: 1415px;
+  left: 734px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image208 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text048 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini6 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar24 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar25 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar26 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder08 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf08 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini6 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle66 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text050 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-groupmini-bd {
+  top: 1415px;
+  left: 1070px;
+  width: 310px;
+  height: 438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cari-kost-filtersection-image209 {
+  top: 56px;
+  left: 35px;
+  width: 240px;
+  height: 180px;
+  position: absolute;
+  border-radius: 9px;
+}
+.cari-kost-filtersection-text052 {
+  top: 246px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-iconstarmini7 {
+  top: 285px;
+  left: 53px;
+  width: 205.00039672851562px;
+  height: 37.34818649291992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-icbaselinestar27 {
+  top: 0px;
+  left: 82.00019836425781px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar28 {
+  top: 0px;
+  left: 40.99964141845703px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestar29 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarborder09 {
+  top: 0px;
+  left: 164.00039672851562px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-icbaselinestarhalf09 {
+  top: 0px;
+  left: 122.99983978271484px;
+  width: 41px;
+  height: 37px;
+  position: absolute;
+}
+.cari-kost-filtersection-label-mini7 {
+  top: 340px;
+  left: 41px;
+  width: 228px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-rectangle67 {
+  top: 0px;
+  left: 7px;
+  width: 214px;
+  height: 42px;
+  position: absolute;
+  border-radius: 12px;
+}
+.cari-kost-filtersection-text054 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text056 {
+  top: 760px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text058 {
+  top: 1330px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-footerhome {
+  top: 2173px;
+  left: 0px;
+  width: 1440px;
+  height: 227px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 252, 251, 1);
+}
+.cari-kost-filtersection-text060 {
+  top: 187px;
+  left: 1092px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-artboard11 {
+  top: 73px;
+  left: 37px;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+}
+.cari-kost-filtersection-text062 {
+  top: 101px;
+  left: 585px;
+  color: rgba(0, 0, 0, 1);
+  width: 298px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-g-hitam {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 2173px;
+  position: absolute;
+}
+.cari-kost-filtersection-popupatas {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 509px;
+  position: absolute;
+}
+.cari-kost-filtersection-filterbar {
+  top: 112px;
+  left: 62px;
+  width: 225px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-materialsymbolsfilteralt {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.cari-kost-filtersection-text064 {
+  top: 7px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-searchbar {
+  top: 43px;
+  left: 382px;
+  width: 698px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.cari-kost-filtersection-vector {
+  top: 8px;
+  left: 665px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+}
+.cari-kost-filtersection-text066 {
+  top: 52px;
+  left: 1267px;
+  color: rgba(45, 193, 104, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text068 {
+  top: 52px;
+  left: 1094px;
+  color: rgba(0, 0, 0, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-tag-fasiitas {
+  top: 201px;
+  left: 324px;
+  width: 672px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-filter1 {
+  top: 0px;
+  left: 0px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text070 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter2 {
+  top: 0px;
+  left: 211px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text072 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter3 {
+  top: 0px;
+  left: 422px;
+  width: 250px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text074 {
+  top: 8px;
+  left: 28px;
+  color: rgba(90, 89, 89, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-tag-type {
+  top: 254px;
+  left: 324px;
+  width: 541px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-filter11 {
+  top: 0px;
+  left: 0px;
+  width: 165px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text076 {
+  top: 8px;
+  left: 10.486328125px;
+  color: rgba(90, 89, 89, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter21 {
+  top: 0px;
+  left: 186px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text078 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter31 {
+  top: 0px;
+  left: 397px;
+  width: 144px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text080 {
+  top: 8px;
+  left: 16.12890625px;
+  color: rgba(90, 89, 89, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-tag-price {
+  top: 307px;
+  left: 324px;
+  width: 614px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-filter12 {
+  top: 0px;
+  left: 0px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text082 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter22 {
+  top: 0px;
+  left: 211px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text084 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter32 {
+  top: 0px;
+  left: 422px;
+  width: 192px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text086 {
+  top: 8px;
+  left: 21.50423812866211px;
+  color: rgba(90, 89, 89, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-tag-price1 {
+  top: 360px;
+  left: 323px;
+  width: 630px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-filter13 {
+  top: 0px;
+  left: 0px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text088 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter23 {
+  top: 0px;
+  left: 211px;
+  width: 206px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text090 {
+  top: 8px;
+  left: 13.09311294555664px;
+  color: rgba(90, 89, 89, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter33 {
+  top: 0px;
+  left: 438px;
+  width: 192px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text092 {
+  top: 8px;
+  left: 21.50423812866211px;
+  color: rgba(90, 89, 89, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-tag-payment {
+  top: 360px;
+  left: 323px;
+  width: 630px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-filter14 {
+  top: 0px;
+  left: 0px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text094 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter24 {
+  top: 0px;
+  left: 211px;
+  width: 206px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text096 {
+  top: 8px;
+  left: 13.09311294555664px;
+  color: rgba(90, 89, 89, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter34 {
+  top: 0px;
+  left: 438px;
+  width: 192px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text098 {
+  top: 8px;
+  left: 21.50423812866211px;
+  color: rgba(90, 89, 89, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-tag-payment1 {
+  top: 413px;
+  left: 324px;
+  width: 823px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-filter15 {
+  top: 0px;
+  left: 0px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text100 {
+  top: 8px;
+  left: 12.076171875px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter25 {
+  top: 0px;
+  left: 211px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text102 {
+  top: 8px;
+  left: 12.076759338378906px;
+  color: rgba(90, 89, 89, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter35 {
+  top: 1px;
+  left: 422px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text104 {
+  top: 8px;
+  left: 21.2799072265625px;
+  color: rgba(90, 89, 89, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filter4 {
+  top: 1px;
+  left: 633px;
+  width: 190px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.cari-kost-filtersection-text106 {
+  top: 8px;
+  left: 21.2799072265625px;
+  color: rgba(90, 89, 89, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-filtercolumn {
+  top: 201px;
+  left: 47px;
+  width: 239px;
+  height: 253px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cari-kost-filtersection-text108 {
+  color: rgba(0, 0, 0, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text110 {
+  top: 54px;
+  color: rgba(0, 0, 0, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text112 {
+  top: 108px;
+  color: rgba(0, 0, 0, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text114 {
+  top: 162px;
+  color: rgba(0, 0, 0, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cari-kost-filtersection-text116 {
+  top: 216px;
+  color: rgba(0, 0, 0, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

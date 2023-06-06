@@ -1,0 +1,857 @@
+.detail-kost-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.detail-kost-detail-kost {
+  width: 100%;
+  height: 2804px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.detail-kost-maps {
+  top: 159px;
+  left: 0px;
+  width: 1440px;
+  height: 613px;
+  position: absolute;
+}
+.detail-kost-header {
+  top: 43px;
+  left: 382px;
+  width: 1058px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-searchbar {
+  top: 0px;
+  left: 0px;
+  width: 698px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.detail-kost-vector {
+  top: 4.668000221252441px;
+  left: 660px;
+  width: 26px;
+  height: 24px;
+  position: absolute;
+}
+.detail-kost-text {
+  top: 9px;
+  left: 885px;
+  color: rgba(45, 193, 104, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-text02 {
+  top: 9px;
+  left: 712px;
+  color: rgba(0, 0, 0, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-desc {
+  top: 803px;
+  left: 38px;
+  width: 962px;
+  height: 257px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-kost-name {
+  top: 6.021484375px;
+  left: 360.3984375px;
+  width: 377.60064697265625px;
+  height: 52.46853256225586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-group40 {
+  top: 9.461067199707031px;
+  left: 0px;
+  width: 187.510986328125px;
+  height: 34.16192626953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-icbaselinestar {
+  top: 0.00009560751641402021px;
+  left: 75.0036849975586px;
+  width: 38px;
+  height: 34px;
+  position: absolute;
+}
+.detail-kost-icbaselinestar1 {
+  top: 0.00009560751641402021px;
+  left: 37.50192642211914px;
+  width: 38px;
+  height: 34px;
+  position: absolute;
+}
+.detail-kost-icbaselinestar2 {
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 34px;
+  position: absolute;
+}
+.detail-kost-icbaselinestarborder {
+  top: 0.00009560751641402021px;
+  left: 150.00889587402344px;
+  width: 38px;
+  height: 34px;
+  position: absolute;
+}
+.detail-kost-icbaselinestarhalf {
+  top: 0.00009560751641402021px;
+  left: 112.50712585449219px;
+  width: 38px;
+  height: 34px;
+  position: absolute;
+}
+.detail-kost-group42 {
+  top: 0px;
+  left: 209.87338256835938px;
+  width: 167.72727966308594px;
+  height: 52.46853256225586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-ictwotoneman4 {
+  top: 0px;
+  left: 120.4195785522461px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.detail-kost-text06 {
+  top: 71px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 356px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-text10 {
+  top: 141px;
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  width: 917px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-tag-detail {
+  top: 1091px;
+  left: 83px;
+  width: 820px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-filter3 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.detail-kost-text12 {
+  top: 8px;
+  left: 16.12890625px;
+  color: rgba(90, 89, 89, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-filter4 {
+  top: 0px;
+  left: 171px;
+  width: 196px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.detail-kost-text14 {
+  top: 8px;
+  left: 21.95323371887207px;
+  color: rgba(90, 89, 89, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-filter5 {
+  top: 0px;
+  left: 394px;
+  width: 279px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.detail-kost-text16 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 275px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-filter6 {
+  top: 0px;
+  left: 700px;
+  width: 120px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(236, 236, 236, 1);
+}
+.detail-kost-text18 {
+  top: 8px;
+  color: rgba(90, 89, 89, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-icroundcall {
+  top: 1164px;
+  left: 83px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.detail-kost-text20 {
+  top: 1172px;
+  left: 167px;
+  color: rgba(0, 0, 0, 1);
+  width: 596px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-frame1 {
+  top: 1240px;
+  left: 83px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.detail-kost-group73 {
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.detail-kost-text22 {
+  top: 1240px;
+  left: 167px;
+  color: rgba(0, 0, 0, 1);
+  width: 329px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-pict {
+  top: 1397px;
+  left: 24px;
+  width: 1392px;
+  height: 164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-detail-pict {
+  top: 0px;
+  left: 0px;
+  width: 1392px;
+  height: 164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-image5 {
+  top: 0px;
+  left: 176px;
+  width: 163px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-image12 {
+  top: 0px;
+  left: 0px;
+  width: 164px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-image6 {
+  top: 0px;
+  left: 351px;
+  width: 163px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-image7 {
+  top: 0px;
+  left: 526px;
+  width: 164px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-image8 {
+  top: 0px;
+  left: 702px;
+  width: 164px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-image9 {
+  top: 0px;
+  left: 878px;
+  width: 163px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-image11 {
+  top: 0px;
+  left: 1228px;
+  width: 164px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-image10 {
+  top: 0px;
+  left: 1053px;
+  width: 163px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-gradation {
+  top: 0px;
+  left: 0px;
+  width: 1392px;
+  height: 164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-rectangle15 {
+  top: 0px;
+  left: 0px;
+  width: 104px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-rectangle16 {
+  right: -1px;
+  width: 104px;
+  bottom: -1px;
+  height: 164px;
+  position: absolute;
+}
+.detail-kost-arrow {
+  top: 60px;
+  left: 0px;
+  width: 1385px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-icroundkeyboarddoublearrowup {
+  top: 0px;
+  right: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.detail-kost-icroundkeyboarddoublearrowup1 {
+  left: 0px;
+  width: 45px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+}
+.detail-kost-commentexample {
+  top: 1723px;
+  left: 70px;
+  width: 1300px;
+  height: 89px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-text24 {
+  top: 34px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  width: 699px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-text26 {
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  width: 699px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-materialsymbolsaccountcircle {
+  top: 0px;
+  left: 13px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.detail-kost-line1 {
+  top: 89px;
+  left: 0px;
+  width: 1300px;
+  height: 1px;
+  position: absolute;
+}
+.detail-kost-ratestar {
+  top: 18px;
+  left: 1060px;
+  width: 175.99996948242188px;
+  height: 32.06478500366211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-icbaselinestar3 {
+  top: 0px;
+  left: 70.39997863769531px;
+  width: 35px;
+  height: 32px;
+  position: absolute;
+}
+.detail-kost-icbaselinestar4 {
+  top: 0px;
+  left: 35.2000846862793px;
+  width: 35px;
+  height: 32px;
+  position: absolute;
+}
+.detail-kost-icbaselinestar5 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 32px;
+  position: absolute;
+}
+.detail-kost-icbaselinestarborder1 {
+  top: 0px;
+  left: 140.79995727539062px;
+  width: 35px;
+  height: 32px;
+  position: absolute;
+}
+.detail-kost-icbaselinestarhalf1 {
+  top: 0px;
+  left: 105.60005950927734px;
+  width: 35px;
+  height: 32px;
+  position: absolute;
+}
+.detail-kost-text28 {
+  top: 1600px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  width: 625px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-text30 {
+  top: 1851px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  width: 823px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-rectangle14 {
+  top: 1937px;
+  left: 83px;
+  width: 1281px;
+  height: 394px;
+  position: absolute;
+  border-color: rgba(175, 166, 166, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.detail-kost-text32 {
+  top: 1963px;
+  left: 104px;
+  color: rgba(0, 0, 0, 0.6700000166893005);
+  width: 817px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-rate-comment {
+  top: 2413px;
+  left: 83px;
+  width: 699px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-text34 {
+  color: rgba(0, 0, 0, 1);
+  width: 699px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-star {
+  top: 4px;
+  left: 108px;
+  width: 116.99951171875px;
+  height: 21.31570053100586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.detail-kost-icbaselinestar6 {
+  top: 0px;
+  left: 46.80078125px;
+  width: 23px;
+  height: 21px;
+  position: absolute;
+}
+.detail-kost-icbaselinestar7 {
+  top: 0px;
+  left: 23.3984375px;
+  width: 23px;
+  height: 21px;
+  position: absolute;
+}
+.detail-kost-icbaselinestar8 {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 21px;
+  position: absolute;
+}
+.detail-kost-icbaselinestarborder2 {
+  top: 0px;
+  left: 93.599609375px;
+  width: 23px;
+  height: 21px;
+  position: absolute;
+}
+.detail-kost-icbaselinestarhalf2 {
+  top: 0px;
+  left: 70.19938659667969px;
+  width: 23px;
+  height: 21px;
+  position: absolute;
+}
+.detail-kost-text36 {
+  top: 2364px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  width: 699px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-text37 {
+  font-weight: 600;
+}
+.detail-kost-public-button {
+  top: 2374px;
+  left: 1071px;
+  width: 293px;
+  height: 78px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(45, 193, 104, 1);
+}
+.detail-kost-text39 {
+  top: 16px;
+  color: rgba(255, 255, 255, 1);
+  right: 0px;
+  width: 293px;
+  height: auto;
+  position: absolute;
+  font-size: 37px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-footerhome {
+  top: 2577px;
+  left: 4px;
+  width: 1440px;
+  height: 227px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 252, 251, 1);
+}
+.detail-kost-text41 {
+  top: 187px;
+  left: 1092px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detail-kost-artboard11 {
+  top: 73px;
+  left: 37px;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+}
+.detail-kost-text43 {
+  top: 101px;
+  left: 585px;
+  color: rgba(0, 0, 0, 1);
+  width: 298px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
